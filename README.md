@@ -10,7 +10,7 @@ When the Nonprofit Success Pack (NPSP) v3 was released almost 10 years ago, it d
 Please replace with Nonprofit, Education, or Other (if Other, explain further)
 
 ## Trailblazer Group or Slack Channel Link (access required)
-Please replace with the URL for your Trailblazer Community group and/or Slack channel issued by the Commons program team.
+[Slack Channel](https://salesforce.enterprise.slack.com/archives/C062BBB8VD3)
 
 ## How to Contribute:
 - Way 1.
@@ -18,7 +18,7 @@ Please replace with the URL for your Trailblazer Community group and/or Slack ch
 - Way 3. 
 
 ## Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
+[Wiki](https://drive.google.com/drive/folders/1ObO3fk4KwpwOMOk_MjHCS1ihS-Bqoy_b)
 
 
 ***
@@ -27,16 +27,36 @@ BELOW CONTENT TO USE TO CREATE YOUR FIRST WIKI PAGE TO HOUSE DETAILS ABOUT YOUR 
 2. Update that wiki page with details from the Sprint. 
 3. Copy that format for the next Sprint.
 
-# Sprint (DATE): 
+# Sprint (30 October 2023): 
 ## Project Team & Accomplishments
 Add details here - what you did, links to docs if there are any, etc.
+[Google Drive](https://drive.google.com/drive/folders/1ObO3fk4KwpwOMOk_MjHCS1ihS-Bqoy_b)
+Framed the problems, issues, and questions with Nonprofit Cloud. 
+Scoped from the Framing challenge into buckets. 
 
 ## Contributors
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Dar Veverka          | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
+Vanessa Ruiz         | Contributor   |                                                    | 
+Tara Cobb            | Contributor   |
+Kathy Dunne          | Contributor   |
+Hayley Tuller        | Contributor   |
+Junette Tan          | Contributor   |
+Karen Fitton         | Contributor   |
+Cody Switzer         | Contributor   |
+Jake Roesler         | Contributor   |
+Tracey Braun         | Contributor   |
+Trent Whalon         | Contributor   |
+Julie Russell        | Contributor   |
+Carolina Avsar       | Contributor   |
+Jamie Van Nostrand   | Contributor   |
+Karim Gabriel        | Contributor   |
+Kelley Dwyer         | Contributor   |
+Kevin Swiggum        | Contributor   |
+Tiffany Spencer      | Contributor   |
+Enter working group name
 
 ## Future Contributions 
 (AKA what were you unable to finish at the Sprint)
